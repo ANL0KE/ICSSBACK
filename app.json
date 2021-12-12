@@ -1,15 +1,15 @@
 {
   "name": "ICSS - USERBOT",
-  "description": "Arabic Userbot for you by - @rruuurr ",
-  "logo": "https://telegra.ph/file/b204d0eade42f0acab4fe.jpg",
+  "description": "A Powerful Userbot By - [Amr Java](t.me/JAI6H) ",
+  "logo": "https://telegra.ph/file/bbcdb1bc051f320fed5fa.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ANL0KE/ICSS-USERBOT/",
-  "website": "#TODO",
-  "success_url": "#TODO",
+  "repository": "https://github.com/JAI6H/ICSS-USERBOT",
+  "website": "https://t.me/Dr_Asad_Ali",
+  "success_url": "https://github.com/jankarikiduniya",
   "env": {
     "ALIVE_NAME": {
       "description": "ادخل اسمك هنا",
@@ -71,7 +71,7 @@
     },
     "OWNER_ID": {
       "description": "ايدي حسابك",
-      "value": "",
+      "value": "1614314857",
       "required": false
     },
 
@@ -92,7 +92,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس",
-      "value": "kimo ",
+      "value": "https://github.com/JAI6H/ICSS-USERBOT",
       "required": false
     }
   },
